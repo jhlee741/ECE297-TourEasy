@@ -16,4 +16,5 @@ NOTE: This project was made for the course ECE297 at the University of Toronto, 
 * Dark Mode
 
 ## Algorithms
-* 
+### Setting up a Graph data structure
+Our map represents the information retrieved from the OSM Database as a directed, weighted graph. The nodes of the graph represent city intersections, and the edges represent street segments that connect two intersections together. The weight of each edge represented the travel time to get from one intersection to another, which was calculated from the length of the street divided by the speed limit. 
