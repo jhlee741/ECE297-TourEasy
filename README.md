@@ -37,3 +37,11 @@ For our initial "baseline" solution, we try starting at every possible depot(sta
 | Dark Mode  | Zoom-Levels |
 | ------------- | ------------- |
 | ![Dark Mode](/images/darkMode.png)  | ![Zoom Levels](/images/zoomLevel.gif) |
+
+| Path-Finding  | Directions |
+| ------------- | ------------- |
+| ![Path Finding](/images/pathFinding.gif)  | ![Directions](/images/directions.png) |
+
+| Subways  | Points of Interest |
+| ------------- | ------------- |
+| ![Subways](/images/subways.png)  | ![Points of Interest](/images/POIs.png) |
