@@ -32,4 +32,8 @@ For our initial "baseline" solution, we try starting at every possible depot(sta
 ## Screenshots
 | Main Screen  | Changing maps |
 | ------------- | ------------- |
-| ![Loading Screen](/images/mainScreen.png)  | ![Map Selection](/images/changeMap.gif) |
+| ![Main Screen](/images/mainScreen.png)  | ![Map Selection](/images/changeMap.gif) |
+
+| Dark Mode  | Zoom-Levels |
+| ------------- | ------------- |
+| ![Dark Mode](/images/darkMode.png)  | ![Zoom Levels](/images/zoomLevel.gif) |
