@@ -28,3 +28,8 @@ Our map implements the A* Search algorithm to search for the shortest path betwe
 Given a set of dropoff/pickup points, and a set of start/end intersections, our algorithm attempts to find the optimal path that reaches all the intersections. Since this type of problem is an example of a NP Hard problem, our algorithm finds a few "mediocre" solutions, then continues to make improvements until we end up with a relatively optimal path in a reasonable amount of time. 
 
 For our initial "baseline" solution, we try starting at every possible depot(start point), and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best "baseline" solution, we try swapping the order of two random intersections continuously to look for a more optimal path until we run out of time which we set as a hard limit of 50 seconds. 
+
+## Screenshots
+| Main Screen  | Changing maps |
+| ------------- | ------------- |
+| ![Loading Screen](/images/mainScreen.png)  | ![Map Selection](/images/changeMap.gif) |
